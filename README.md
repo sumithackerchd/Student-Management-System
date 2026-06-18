@@ -1,37 +1,28 @@
-# 🎓 Student Management System
+# 🎓 Flask Student Management System
 
-A Python and SQLite based CRUD application for managing student records efficiently.
+A complete CRUD web application built using Python Flask and SQLite.
 
 ## Features
 
-✅ Add Student  
-✅ View Students  
-✅ Update Student  
-✅ Delete Student  
-✅ Search Student  
+* Add Student
+* View Students
+* Search Student
+* Update Student
+* Delete Student
+* Bootstrap Responsive UI
+* SQLite Database Integration
 
 ## Technologies Used
 
-- Python
-- SQLite
-- SQL
-
-
-
-## How to Run
-
-```bash
-python main.py
-```
+* Python
+* Flask
+* SQLite
+* HTML
+* Bootstrap 5
 
 ## Project Structure
 
-Student-Management-System
-│
-├── database.py
-├── main.py
-├── students.db
-└── README.md
+Flask Student Management System follows a modular template-based architecture using Flask and SQLite.
 
 ## Author
 
